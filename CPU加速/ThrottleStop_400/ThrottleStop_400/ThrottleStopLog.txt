@@ -1,0 +1,2 @@
+  DATE      TIME    MULTI   C0%   CKMOD  CHIPM   BAT_mW  TEMP    VID   POWER
+11/17/14  23:50:42  12.91    3.6  100.0  100.0        0   48   1.1409    6.1
